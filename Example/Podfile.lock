@@ -1,0 +1,16 @@
+PODS:
+  - PQSearchControl (0.1.0)
+
+DEPENDENCIES:
+  - PQSearchControl (from `../`)
+
+EXTERNAL SOURCES:
+  PQSearchControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PQSearchControl: 59f314ca39a646c09de911101b4c45744a0d4d68
+
+PODFILE CHECKSUM: c0f3bf2670ce7e84d10edf6b03190e2e3653606b
+
+COCOAPODS: 1.5.0

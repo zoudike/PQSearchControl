@@ -1,0 +1,6 @@
+framework module Pods_PQSearchControl_Tests {
+  umbrella header "Pods-PQSearchControl_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

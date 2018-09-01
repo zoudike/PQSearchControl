@@ -1,0 +1,22 @@
+{
+  "name": "PQSearchControl",
+  "version": "0.1.0",
+  "summary": "A short description of PQSearchControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zoudike/PQSearchControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zoudike": "850592231@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zoudike/PQSearchControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PQSearchControl/Classes/**/*"
+}

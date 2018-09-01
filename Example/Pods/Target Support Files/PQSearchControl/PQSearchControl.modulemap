@@ -1,0 +1,6 @@
+framework module PQSearchControl {
+  umbrella header "PQSearchControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
