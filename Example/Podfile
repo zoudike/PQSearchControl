@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PQSearchControl_Example' do
+  pod 'PQSearchControl', :path => '../'
+
+  target 'PQSearchControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
